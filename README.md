@@ -1,2 +1,4 @@
 # Where-did-all-the-repo-s-go-
-I left github for bitbucket. Tired of the drama with this virulent community code of conduct nonsense on a platform that should be dedicated to development
+<s>I left github for bitbucket. Tired of the drama with this virulent community code of conduct nonsense on a platform that should be dedicated to development</s>
+
+I'm probably going to leave bitbucket too. Apparently the cancer has spread there too. Going to just host my crappy code on my own network. At least I don't have to worry about myself selling out :/
