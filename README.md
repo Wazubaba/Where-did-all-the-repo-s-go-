@@ -13,4 +13,4 @@ Then I realized I was tired. I began to question "what is the point of this?". "
 
 Most of the repos are just abandoned half-made game engines, random libs I made because I couldn't find any libs of the given focii up to my standards, and random software nobody but I will ever use. I think most if not all are GPLv3 licensed.
 
-Odds are good there is no way to contact me and frankly at this point I'm almost convinced to just swap full-time to various alt nets. Gemini looks rather nice, and there's always the fediverse if I can ever work up the will power to interact with people again after all of this mass-hysteria.
+Odds are good there is no viable way to contact me and frankly at this point I'm almost convinced to just swap full-time to various alt nets. Gemini looks rather nice, and there's always the fediverse if I can ever work up the will power to interact with people again after all of this mass-hysteria.
