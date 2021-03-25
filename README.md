@@ -2,8 +2,11 @@
 Its been 5 years, maybe I should update this.
 
 First I was on github, then the outrage mob ruined github with politics.
+
 Next I was on bitbucket, then the outrage mob ruined bitbucket with politics.
+
 After that I was on gitlab, then the outrage mob ruined gitlab with politics.
+
 Finally, I found a place that wasn't driven by politics, cancel culture, and woke hysteria. That place, despairingly, is a 4chan-started git service called gitgud running their own gitlab instance.
 
 It's sad that I have to rely on 4chan-esque hosting services just to have an approximation of free speech.
