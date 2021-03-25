@@ -1,8 +1,13 @@
 # Where-did-all-the-repo-s-go-
-<s>I left github for bitbucket. Tired of the drama with this virulent community code of conduct nonsense on a platform that should be dedicated to development</s>
+Its been 5 years, maybe I should update this.
 
-I'm probably going to leave bitbucket too. Apparently the cancer has spread there too. It may even be worse than here, if you can believe that... Most likely going to just host my crappy code on my own network. At least I don't have to worry about myself selling out :/
+First I was on github, then the outrage mob ruined github with politics.
+Next I was on bitbucket, then the outrage mob ruined bitbucket with politics.
+After that I was on gitlab, then the outrage mob ruined gitlab with politics.
+Finally, I found a place that wasn't driven by politics, cancel culture, and woke hysteria. That place, despairingly, is a 4chan-started git service called gitgud running their own gitlab instance.
 
-If you are interested, and I know you, you probably already know how to find me. If you are interested and I don't know you, then be aware that I am horribly bad at checking email (TBH I abhor the complexity and general PITA method of the email, and thus restrict bothering with it for the sake of the last dredges of sanity I cling to yet), and am not quite masochistic enough for social media, other than my forced google+ account (Thanks google. So glad you decided to stoop that low just to try to contend with bloody facebook). Your best bet is to contact me through IRC. I'm on freenode amongst other places. I don't check it very often so mind you it may take me some time to respond. YMMV :P
+It's sad that I have to rely on 4chan-esque hosting services just to have an approximation of free speech.
 
-One last thing. Do not contact me if you are one of the SJW(lol justice... I get the irony) psychopaths making it so those of us who actually /do/ program rather than examine our and other's genitalia and sexual preferences cannot have nice things. Some of us really do not care. We aren't unfeeling. We have a job to do, and we want to get it done. You people have an agenda to do, and you don't care who has to suffer nor the extents they must so that you can get it done, yet you apparently are **not** unfeeling yourselves? I shall leave you to it, and I most certainly will not let the door strike me on the way out. After-all, that would probably be opressing the door somehow with the way you folks twist things. All I ask is that you as well leave me to my work.
+Most of the repos are just abandoned half-made game engines, random libs I made because I couldn't find any libs of the given focii up to my standards, and random software nobody but I will ever use.
+
+Odds are good there is no way to contact me and frankly at this point I'm almost convinced to just swap full-time to various alt nets. Gemini looks rather nice, and there's always the fediverse if I can ever work up the will power to interact with people again after all of this mass-hysteria.
